@@ -39,6 +39,9 @@ Data is saved locally in JSON format, ensuring reminders are preserved between s
 ## ⚙️ Installation & Setup
 
 ### 1. Clone Repository
-```bash
+`bash
 git clone https://github.com/username/calendar-reminder-app.git
-cd calendar-reminder-app
+cd calendar-reminder-app`
+
+📜 License
+MIT License © 2025 Zarhan
